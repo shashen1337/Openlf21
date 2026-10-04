@@ -1,0 +1,1994 @@
+Decompiled with CFR 0.152
+
+
+asm.patchify.loader.PatchTransformer
+----------------------------
+
+collectInjectionPoints(org.objectweb.asm.tree.InsnList asm.patchify.annotation.Slice java.util.function.Predicate<org.objectweb.asm.tree.AbstractInsnNode> )
+  Unable to fully structure code
+
+
+lf21.ClientBase
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.EventBus
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.ChatReceiveEvent$MessageType
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.FallFlyingEvent
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.GlRenderEvent
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.JumpMarkerEvent
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.KeyEvent
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.RayTraceEvent
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.Render2DEvent
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.RotationAnimationEvent
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.SprintEvent$Source
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.StuckInBlockEvent
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.UpdateHeldItemEvent
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.UseItemRayTraceEvent
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.event.impl.a
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.IntroAnimation
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.a.c
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.a.h
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.b.a
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.b.b
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.b.d
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.b.e
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.b.f
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.b.g
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.b.i
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.b.k
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.b.l
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.a.a
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.a.c
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.a.d
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.a.f
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.b
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.c
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.e
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.f
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.g
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.h
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.i
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.c.j
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.d
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.e
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.f
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.gui.m
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.A
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.C
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.HudElement$InternalPartType
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.HudElement
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.a.b
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.a.c
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.a.d
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.hud.a.e
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.b_0
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.c_0
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.hud.d_0
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.hud.e_0
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.f_0
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.hud.g_0
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+d(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.h
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+d(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.i
+----------------------------
+
+d(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.hud.j
+----------------------------
+
+d(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.hud.k
+----------------------------
+
+d(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.hud.l
+----------------------------
+
+d(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.hud.m
+----------------------------
+
+d(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.hud.n
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+d(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.o
+----------------------------
+
+d(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.p
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+d(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hud.y
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hwid.HardwareCollector
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.hwid.HwidProfileBridge
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.manager.CommandManager
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.manager.ConfigManager
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.manager.LookForManager
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.manager.ModuleManager
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.manager.NotificationManager
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.Category
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.Module
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.a
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.Displace
+----------------------------
+
+n()
+  Unable to fully structure code
+  Could not resolve type clashes
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.KeepSprint
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.LegitReach
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.TeleportAura
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.a.a
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.a.c
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.a.d
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.b
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.c
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.AntiBots
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.AntiKB
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.AutoOffHand
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.AutoSoup
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.i
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.AutoThrow
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.Backtrack
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.BowAim
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.Critical
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.CrystalAura
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.FakeLag
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.combat.KillAura
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.combat.KillSay
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.exploit.Raytrace
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.exploit.Disabler
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.exploit.FastPlace
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.exploit.PingSpoof
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.misc.BlockHideSeekDetector
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.misc.MurderDetector
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.misc.AimAssist
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.misc.AutoClicker
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.misc.AutoRod
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.misc.d
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.misc.IQBoost
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.misc.f
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.Freeze
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.movement.NoDelay
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.NoSlow
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.Scaffold
+----------------------------
+
+d(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.movement.a
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.Blink
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.Clip
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.d
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.e
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.FireballBlink
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.movement.Fly
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.GuiMove
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.MovementFix
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.NoClip
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.l
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.m
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.TargetStrafe
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.movement.Teleport
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.movement.Timer
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.player.NoFall
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.player.ShiftDrag
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.a.a.a
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.a.a.b
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.a.a.c
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.a.a.d
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.a.a.e
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.a.a.f
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.a.a.g
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.a.a.h
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.player.b_0
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.c_0
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.d
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.e
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.f
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.AntiVoid
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.AntiWeb
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.AutoChest
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.AutoMLG
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.player.AutoWeb
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.player.ChestStealer
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.n
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.Helper
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.player.InventoryManager
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.player.MidPearl
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.player.NoGuiClose
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.player.Stuck
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.AspectRatio
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.ESP
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.render.Freecam
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.FullBright
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.NameTags
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.render.NoAttackCooldown
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.NoBlinded
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.NoCameraClip
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.NoFov
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.NoHurtCam
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.OldHitting
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.render.ScoreBoard
+----------------------------
+
+d(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.render.XRay
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.render.b.b
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.render.b.c
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.render.c
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.BedESP
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.render.e
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.render.ClickGui
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.Compass
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.DamageGlow
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.render.i
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.Interface
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.ItemTags
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.render.Projectiles
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.world.MusicBot
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+d(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.world.Nuker
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.world.a
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.world.AntiStaff
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.world.AutoPlay
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.world.AutoTools
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.world.BlockIn
+----------------------------
+
+c(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.modules.impl.world.Debugger
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.modules.impl.world.Teams
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+c(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.network.MatchmakingProbe
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.network.NativeProtocolCompatibility
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.C
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.render.K
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.M
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.render.N
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.render.P
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.render.S
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.render.a.a
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.render.a.c
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.a.d
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.render.ad
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.render.e_0
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.f_0
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.g_0
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+<clinit>()
+  Unable to fully structure code
+
+
+lf21.render.h_0
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.i_0
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.j_0
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.k_0
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.l_0
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.n_0
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.p_0
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.q_0
+----------------------------
+
+a(com.mojang.blaze3d.vertex.PoseStack java.lang.String float float float float float float boolean int )
+  Loose catch block
+
+
+lf21.render.v_0
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.x_0
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.render.z_0
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.a.d
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.a.e
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.b.a
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.b.e
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.b.i
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.game.PlayerUtil
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.game.d
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.game.e
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.game.f
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.game.h
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.game.j
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.game.m
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.misc.ReflectionUtil
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.misc.a
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.misc.b
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.misc.f
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.misc.g
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.misc.i
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.misc.j
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.misc.l
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.render.RenderUtil
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.render.a
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.render.b
+----------------------------
+
+b(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.render.e
+----------------------------
+
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.render.f
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
+
+
+lf21.utils.rotation.a
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+a(char[] )
+  Handled impossible loop by duplicating code
